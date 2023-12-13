@@ -1,0 +1,97 @@
+@charset "UTF-8" ;
+
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+body{
+    background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e3bc38bf-b82a-4ce8-8719-5c3c1a9c262e/dfwbxim-020f9d18-eb2e-4677-9403-b04ba7c6677c.jpg/v1/fill/w_1280,h_800,q_75,strp/windows_xp_bliss_remake_wallpaper_v2_by_sambox436_dfwbxim-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvZTNiYzM4YmYtYjgyYS00Y2U4LTg3MTktNWMzYzFhOWMyNjJlXC9kZndieGltLTAyMGY5ZDE4LWViMmUtNDY3Ny05NDAzLWIwNGJhN2M2Njc3Yy5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.O44IZt3RW2bYVdlCdpGludLRHui5N5zbNXcv4YV3SAs);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+     
+}
+
+/* Título central */
+
+
+.launcher{
+    text-align: center;
+    box-shadow: 5px 10px #ffffff;
+    box-sizing: border-box;
+    height: 100px;
+    width: 200px;
+    margin-left: 600px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    border-radius: 25px;
+    outline: #000;
+
+
+}
+
+
+
+
+
+.contacts{
+    padding:50px;
+    margin:30px;
+    border-spacing: 20px;
+    border-collapse: collapse;
+    
+
+
+}
+
+
+/* Explicação para o motivo da viagem */
+
+.introducao-box{
+text-align: center;
+margin: 60px;
+padding: 40px;
+background-color:hsl(229, 64%, 13%);
+border-radius: 100px;
+color:#ffffff
+
+}
+
+.introducao-box img{
+    margin: 30px;
+}
+
+
+.text-box{
+content:"";
+text-align: left;
+background-color: #12122e;
+color: #f0f8ff;
+border-radius: 30px;
+
+}
+
+.text-box img{
+margin-left: 700px;
+
+
+}
+
+.text-box2{
+    text-align: center;
+    margin: 20px;
+}
+
+
+.ender{
+content:"";
+padding: 20px;
+margin: 90px;
+text-align: center;
+background-color: #12122e;
+border-radius:9000px ;
+color: #ffffff;
+}
+
